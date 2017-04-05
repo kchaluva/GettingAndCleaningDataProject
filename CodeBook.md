@@ -46,4 +46,3 @@ all.melted: contains melted data from all
 all.mean: contain mean value by subject, activity of melted data.
 
 
-
