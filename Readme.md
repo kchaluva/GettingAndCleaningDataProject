@@ -2,7 +2,7 @@
 
 This is the course project for the Getting and Cleaning Data Coursera.
 
-##Files
+## Files
 * **run_analysis.R** contains code to perform the analysis, it does the following:
 
 1. Download the dataset if it does not already exist in the working directory
