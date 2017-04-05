@@ -16,19 +16,33 @@ The script `run_analysis.R`performs the steps described in the course project's 
 # Variables
 
 train: contains data downloaded from train file.
+
 trainActivities: contains data downloaded from train activities file.
+
 trainSubject: contains data downloaded from train subject file.
+
 test: contains data downloaded from test file.
+
 testActivities: contains data downloaded from test activities file.
+
 testSubject: contnains data downloaded from test subject file.
+
 features: contnains data downloaded from feature file.
+
 subject: contnains data downloaded from feature file.
+
 traintest: contains merged data of train and test.
+
 traintestActivities: contain merged data of train and test activities.
+
 traintestSubject: contain merged data of train and test subject.
+
 all: contains merged data from train and test with only require variables.
+
 featureswanted: contains only required feature names.
+
 all.melted: contains melted data from all
+
 all.mean: contain mean value by subject, activity of melted data.
 
 
